@@ -1,6 +1,6 @@
 # REACT Course
 
-In this Course I learn the basics of REACT like:
+In this Course I learn the basics of REACT like:  
   *Components  
   *Props  
   *State  
