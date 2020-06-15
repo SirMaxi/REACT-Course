@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "Tarea 1",
+        "description": "Compras",
+        "done": false
+    },
+    {
+        "id": 1,
+        "title": "Tarea 2",
+        "description": "To-Do List",
+        "done": false
+    },
+    {
+        "id": 2,
+        "title": "Tarea 3",
+        "description": "Tarea Facultad",
+        "done": true
+    }
+]
